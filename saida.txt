@@ -1,0 +1,38 @@
+commit 3d3607a9f83ead470c813b2880723c0e4e6acc23
+Author: hilquias <hilquiassantana0@gmail.com>
+Date:   Fri Aug 22 19:07:43 2025 -0500
+
+    adicionei estilo no css
+
+commit 775d51abecb360a1d63e6b42f794f69ed1b497a6
+Merge: 3e5f7e4 84df5b1
+Author: Hilquias <115837111+Hilquias01@users.noreply.github.com>
+Date:   Fri Aug 22 18:59:36 2025 -0500
+
+    Merge pull request #5 from Hilquias01/develop
+    
+    feat: adicionando lista de produtos refs #9
+
+commit 84df5b12f5171d0755a2e34af321bb9647f4b38a
+Author: hilquias <hilquiassantana0@gmail.com>
+Date:   Fri Aug 22 18:57:55 2025 -0500
+
+    feat: adicionando lista de produtos refs #9
+
+commit 3e5f7e4f8a87170597dad82b81b3cc06c7593efa
+Author: kaurodrigues-dev <kauanyrodrigues.discente@gmail.com>
+Date:   Thu Aug 21 20:12:16 2025 -0500
+
+    feat: cria um estilo azul para index.html refs #1
+
+commit d118605701f825c65a4ffb624055b4a8997c53cd
+Author: kaurodrigues-dev <kauanyrodrigues.discente@gmail.com>
+Date:   Thu Aug 21 19:47:15 2025 -0500
+
+    feat: cria página index com boas-vindas – Ref. #3
+
+commit 2b65465a3a6a812b985856def1ed45f1749e5a62
+Author: Hilquias <115837111+Hilquias01@users.noreply.github.com>
+Date:   Thu Aug 21 18:52:31 2025 -0500
+
+    Initial commit
